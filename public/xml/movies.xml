@@ -1,0 +1,1018 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movies>
+    <movie>
+        <movie-title>The Lord of the Rings: The Fellowship of the Ring</movie-title>
+        <released-year>2001</released-year>
+        <movie-url>https://www.imdb.com/title/tt0120737/</movie-url>
+    </movie>
+    <movie>
+        <movie-title>The Lord of the Rings: The Two Towers</movie-title>
+        <released-year>2002</released-year>
+        <movie-url>https://www.imdb.com/title/tt0167261/</movie-url>
+    </movie>
+    <movie>
+        <movie-title>The Lord of the Rings: The Return of the King</movie-title>
+        <released-year>2003</released-year>
+        <movie-url>https://www.imdb.com/title/tt0167260/</movie-url>
+    </movie>
+    <movie>
+        <movie-title>Harry Potter and the Sorcerer's Stone</movie-title>
+        <released-year>2001</released-year>
+        <movie-url>https://www.imdb.com/title/tt0241527/</movie-url>
+    </movie>
+    <movie>
+        <movie-title>Harry Potter and the Chamber of Secrets</movie-title>
+        <released-year>2002</released-year>
+        <movie-url>https://www.imdb.com/title/tt0295297/</movie-url>
+    </movie>
+    <movie>
+        <movie-title>Harry Potter and the Prisoner of Azkaban</movie-title>
+        <released-year>2004</released-year>
+        <movie-url>https://www.imdb.com/title/tt0304141/</movie-url>
+    </movie>
+    <movie>
+        <movie-title>Harry Potter and the Goblet of Fire</movie-title>
+        <released-year>2005</released-year>
+        <movie-url>https://www.imdb.com/title/tt0330373/</movie-url>
+    </movie>
+    <movie>
+        <movie-title>Harry Potter and the Order of the Phoenix</movie-title>
+        <released-year>2007</released-year>
+        <movie-url>https://www.imdb.com/title/tt0373889/</movie-url>
+    </movie>
+    <movie>
+        <movie-title>Harry Potter and the Half-Blood Prince</movie-title>
+        <released-year>2009</released-year>
+        <movie-url>https://www.imdb.com/title/tt0417741/</movie-url>
+    </movie>
+    <movie>
+        <movie-title>Harry Potter and the Deathly Hallows: Part 1</movie-title>
+        <released-year>2010</released-year>
+        <movie-url>https://www.imdb.com/title/tt0926084/</movie-url>
+    </movie>
+    <movie>
+        <movie-title>Harry Potter and the Deathly Hallows: Part 2</movie-title>
+        <released-year>2011</released-year>
+        <movie-url>https://www.imdb.com/title/tt1201607/</movie-url>
+    </movie>
+    <movie>
+        <movie-title>The Hunger Games</movie-title>
+        <released-year>2012</released-year>
+        <movie-url>https://www.imdb.com/title/tt1392170/</movie-url>
+    </movie>
+    <movie>
+        <movie-title>The Hunger Games: Catching Fire</movie-title>
+        <released-year>2013</released-year>
+        <movie-url>https://www.imdb.com/title/tt1951264/</movie-url>
+    </movie>
+    <movie>
+        <movie-title>The Hunger Games: Mockingjay - Part 1</movie-title>
+        <released-year>2014</released-year>
+        <movie-url>https://www.imdb.com/title/tt1951265/</movie-url>
+    </movie>
+    <movie>
+        <movie-title>The Hunger Games: Mockingjay - Part 2</movie-title>
+        <released-year>2015</released-year>
+        <movie-url>https://www.imdb.com/title/tt1951266/</movie-url>
+    </movie>
+    <movie>
+        <movie-title>The Fast and the Furious</movie-title>
+        <released-year>2001</released-year>
+        <movie-url>https://www.imdb.com/title/tt0232500/</movie-url>
+    </movie>
+    <movie>
+        <movie-title>2 Fast 2 Furious</movie-title>
+        <released-year>2003</released-year>
+        <movie-url>https://www.imdb.com/title/tt0322259/</movie-url>
+    </movie>
+    <movie>
+        <movie-title>The Fast and the Furious: Tokyo Drift</movie-title>
+        <released-year>2006</released-year>
+        <movie-url>https://www.imdb.com/title/tt0463985/</movie-url>
+    </movie>
+    <movie>
+        <movie-title>Fast &amp; Furious</movie-title>
+        <released-year>2009</released-year>
+        <movie-url>https://www.imdb.com/title/tt1013752/</movie-url>
+    </movie>
+    <movie>
+        <movie-title>Fast Five</movie-title>
+        <released-year>2011</released-year>
+        <movie-url>https://www.imdb.com/title/tt1596343/</movie-url>
+    </movie>
+    <movie>
+        <movie-title>Fast &amp; Furious 6</movie-title>
+        <released-year>2013</released-year>
+        <movie-url>https://www.imdb.com/title/tt1905041/</movie-url>
+    </movie>
+    <movie>
+        <movie-title>Furious 7</movie-title>
+        <released-year>2015</released-year>
+        <movie-url>https://www.imdb.com/title/tt2820852/</movie-url>
+    </movie>
+    <movie>
+        <movie-title>The Fate of the Furious</movie-title>
+        <released-year>2017</released-year>
+        <movie-url>https://www.imdb.com/title/tt4630562/</movie-url>
+    </movie>
+    <movie>
+        <movie-title>Fast &amp; Furious Presents: Hobbs &amp; Shaw</movie-title>
+        <released-year>2019</released-year>
+        <movie-url>https://www.imdb.com/title/tt6806448/</movie-url>
+    </movie>
+    <movie>
+        <movie-title>5th Passenger</movie-title>
+        <released-year>2017</released-year>
+        <movie-url>https://www.imdb.com/title/tt3165632/</movie-url>
+    </movie>
+    <movie>
+        <movie-title>21</movie-title>
+        <released-year>2008</released-year>
+        <movie-url>https://www.imdb.com/title/tt0478087/</movie-url>
+    </movie>
+    <movie>
+        <movie-title>A Hologram for the King</movie-title>
+        <released-year>2016</released-year>
+        <movie-url>https://www.imdb.com/title/tt2980210/</movie-url>
+    </movie>
+    <movie>
+        <movie-title>Alita: Battle Angel</movie-title>
+        <released-year>2019</released-year>
+        <movie-url>https://www.imdb.com/title/tt0437086/</movie-url>
+    </movie>
+    <movie>
+        <movie-title>Ant-Man and the Wasp</movie-title>
+        <released-year>2018</released-year>
+        <movie-url>https://www.imdb.com/title/tt5095030/</movie-url>
+    </movie>
+    <movie>
+        <movie-title>Aquaman</movie-title>
+        <released-year>2018</released-year>
+        <movie-url>https://www.imdb.com/title/tt1477834/</movie-url>
+    </movie>
+    <movie>
+        <movie-title>Arrival</movie-title>
+        <released-year>2016</released-year>
+        <movie-url>https://www.imdb.com/title/tt2543164/</movie-url>
+    </movie>
+    <movie>
+        <movie-title>Avengers: Infinity War</movie-title>
+        <released-year>2018</released-year>
+        <movie-url>https://www.imdb.com/title/tt4154756/</movie-url>
+    </movie>
+    <movie>
+        <movie-title>Baby Driver</movie-title>
+        <released-year>2017</released-year>
+        <movie-url>https://www.imdb.com/title/tt3890160/</movie-url>
+    </movie>
+    <movie>
+        <movie-title>Bad Genius</movie-title>
+        <released-year>2017</released-year>
+        <movie-url>https://www.imdb.com/title/tt6788942/</movie-url>
+    </movie>
+    <movie>
+        <movie-title>Beauty and the Beast</movie-title>
+        <released-year>2017</released-year>
+        <movie-url>https://www.imdb.com/title/tt2771200/</movie-url>
+    </movie>
+    <movie>
+        <movie-title>Blade Runner 2049</movie-title>
+        <released-year>2017</released-year>
+        <movie-url>https://www.imdb.com/title/tt1856101/</movie-url>
+    </movie>
+    <movie>
+        <movie-title>Bon Cop Bad Cop</movie-title>
+        <released-year>2006</released-year>
+        <movie-url>https://www.imdb.com/title/tt0479647/</movie-url>
+    </movie>
+    <movie>
+        <movie-title>Bumblebee</movie-title>
+        <released-year>2018</released-year>
+        <movie-url>https://www.imdb.com/title/tt4701182/</movie-url>
+    </movie>
+    <movie>
+        <movie-title>California Typewriter</movie-title>
+        <released-year>2016</released-year>
+        <movie-url>https://www.imdb.com/title/tt5966990/</movie-url>
+    </movie>
+    <movie>
+        <movie-title>Captain Marvel</movie-title>
+        <released-year>2019</released-year>
+        <movie-url>https://www.imdb.com/title/tt4154664/</movie-url>
+    </movie>
+    <movie>
+        <movie-title>Cars 3</movie-title>
+        <released-year>2017</released-year>
+        <movie-url>https://www.imdb.com/title/tt3606752/</movie-url>
+    </movie>
+    <movie>
+        <movie-title>Clara</movie-title>
+        <released-year>2018</released-year>
+        <movie-url>https://www.imdb.com/title/tt6613878/</movie-url>
+    </movie>
+    <movie>
+        <movie-title>Coco</movie-title>
+        <released-year>2017</released-year>
+        <movie-url>https://www.imdb.com/title/tt2380307/</movie-url>
+    </movie>
+    <movie>
+        <movie-title>Dark Phoenix</movie-title>
+        <released-year>2019</released-year>
+        <movie-url>https://www.imdb.com/title/tt6565702/</movie-url>
+    </movie>
+    <movie>
+        <movie-title>Diary of a Wimpy Kid</movie-title>
+        <released-year>2010</released-year>
+        <movie-url>https://www.imdb.com/title/tt1196141/</movie-url>
+    </movie>
+    <movie>
+        <movie-title>Diary of a Wimpy Kid: Dog Days</movie-title>
+        <released-year>2012</released-year>
+        <movie-url>https://www.imdb.com/title/tt2023453/</movie-url>
+    </movie>
+    <movie>
+        <movie-title>Diary of a Wimpy Kid: The Long Haul</movie-title>
+        <released-year>2017</released-year>
+        <movie-url>https://www.imdb.com/title/tt6003368/</movie-url>
+    </movie>
+    <movie>
+        <movie-title>Doctor Strange</movie-title>
+        <released-year>2016</released-year>
+        <movie-url>https://www.imdb.com/title/tt1211837/</movie-url>
+    </movie>
+    <movie>
+        <movie-title>Enter the Warriors Gate</movie-title>
+        <released-year>2016</released-year>
+        <movie-url>https://www.imdb.com/title/tt4652532/</movie-url>
+    </movie>
+    <movie>
+        <movie-title>Fantastic Beasts and Where to Find Them</movie-title>
+        <released-year>2016</released-year>
+        <movie-url>https://www.imdb.com/title/tt3183660/</movie-url>
+    </movie>
+    <movie>
+        <movie-title>Fantastic Beasts: The Crimes of Grindelwald</movie-title>
+        <released-year>2018</released-year>
+        <movie-url>https://www.imdb.com/title/tt4123430/</movie-url>
+    </movie>
+    <movie>
+        <movie-title>Finding Altamira</movie-title>
+        <released-year>2016</released-year>
+        <movie-url>https://www.imdb.com/title/tt3014910/</movie-url>
+    </movie>
+    <movie>
+        <movie-title>Ghost in the Shell</movie-title>
+        <released-year>2017</released-year>
+        <movie-url>https://www.imdb.com/title/tt1219827/</movie-url>
+    </movie>
+    <movie>
+        <movie-title>Gold</movie-title>
+        <released-year>2016</released-year>
+        <movie-url>https://www.imdb.com/title/tt1800302/</movie-url>
+    </movie>
+    <movie>
+        <movie-title>Guardians of the Galaxy Vol. 2</movie-title>
+        <released-year>2017</released-year>
+        <movie-url>https://www.imdb.com/title/tt3896198/</movie-url>
+    </movie>
+    <movie>
+        <movie-title>Hacker</movie-title>
+        <released-year>2016</released-year>
+        <movie-url>https://www.imdb.com/title/tt3173594/</movie-url>
+    </movie>
+    <movie>
+        <movie-title>How to Train Your Dragon: The Hidden World</movie-title>
+        <released-year>2019</released-year>
+        <movie-url>https://www.imdb.com/title/tt2386490/</movie-url>
+    </movie>
+    <movie>
+        <movie-title>Interstellar</movie-title>
+        <released-year>2014</released-year>
+        <movie-url>https://www.imdb.com/title/tt0816692/</movie-url>
+    </movie>
+    <movie>
+        <movie-title>Ip Man</movie-title>
+        <released-year>2008</released-year>
+        <movie-url>https://www.imdb.com/title/tt1220719/</movie-url>
+    </movie>
+    <movie>
+        <movie-title>Ip Man 3</movie-title>
+        <released-year>2015</released-year>
+        <movie-url>https://www.imdb.com/title/tt2888046/</movie-url>
+    </movie>
+    <movie>
+        <movie-title>Johnny English</movie-title>
+        <released-year>2003</released-year>
+        <movie-url>https://www.imdb.com/title/tt0274166/</movie-url>
+    </movie>
+    <movie>
+        <movie-title>Johnny English Strikes Again</movie-title>
+        <released-year>2018</released-year>
+        <movie-url>https://www.imdb.com/title/tt6921996/</movie-url>
+    </movie>
+    <movie>
+        <movie-title>Jumanji: Welcome to the Jungle</movie-title>
+        <released-year>2017</released-year>
+        <movie-url>https://www.imdb.com/title/tt2283362/</movie-url>
+    </movie>
+    <movie>
+        <movie-title>Jurassic World: Fallen Kingdom</movie-title>
+        <released-year>2018</released-year>
+        <movie-url>https://www.imdb.com/title/tt4881806/</movie-url>
+    </movie>
+    <movie>
+        <movie-title>Kingsman: The Golden Circle</movie-title>
+        <released-year>2017</released-year>
+        <movie-url>https://www.imdb.com/title/tt4649466/</movie-url>
+    </movie>
+    <movie>
+        <movie-title>Kingsman: The Secret Service</movie-title>
+        <released-year>2014</released-year>
+        <movie-url>https://www.imdb.com/title/tt2802144/</movie-url>
+    </movie>
+    <movie>
+        <movie-title>Kubo and the Two Strings</movie-title>
+        <released-year>2016</released-year>
+        <movie-url>https://www.imdb.com/title/tt4302938/</movie-url>
+    </movie>
+    <movie>
+        <movie-title>Kung Fu Yoga</movie-title>
+        <released-year>2017</released-year>
+        <movie-url>https://www.imdb.com/title/tt4217392/</movie-url>
+    </movie>
+    <movie>
+        <movie-title>Leap!</movie-title>
+        <released-year>2016</released-year>
+        <movie-url>https://www.imdb.com/title/tt2261287/</movie-url>
+    </movie>
+    <movie>
+        <movie-title>Lion</movie-title>
+        <released-year>2016</released-year>
+        <movie-url>https://www.imdb.com/title/tt3741834/</movie-url>
+    </movie>
+    <movie>
+        <movie-title>Logan</movie-title>
+        <released-year>2017</released-year>
+        <movie-url>https://www.imdb.com/title/tt3315342/</movie-url>
+    </movie>
+    <movie>
+        <movie-title>Master Z: Ip Man Legacy</movie-title>
+        <released-year>2018</released-year>
+        <movie-url>https://www.imdb.com/title/tt7262882/</movie-url>
+    </movie>
+    <movie>
+        <movie-title>Maze Runner: The Death Cure</movie-title>
+        <released-year>2018</released-year>
+        <movie-url>https://www.imdb.com/title/tt4500922/</movie-url>
+    </movie>
+    <movie>
+        <movie-title>Maze Runner: The Scorch Trials</movie-title>
+        <released-year>2015</released-year>
+        <movie-url>https://www.imdb.com/title/tt4046784/</movie-url>
+    </movie>
+    <movie>
+        <movie-title>The Maze Runner</movie-title>
+        <released-year>2014</released-year>
+        <movie-url>https://www.imdb.com/title/tt1790864/</movie-url>
+    </movie>
+    <movie>
+        <movie-title>Megan Leavey</movie-title>
+        <released-year>2017</released-year>
+        <movie-url>https://www.imdb.com/title/tt4899370/</movie-url>
+    </movie>
+    <movie>
+        <movie-title>Miss Peregrine's Home for Peculiar Children</movie-title>
+        <released-year>2016</released-year>
+        <movie-url>https://www.imdb.com/title/tt1935859/</movie-url>
+    </movie>
+    <movie>
+        <movie-title>Mission: Impossible - Fallout</movie-title>
+        <released-year>2018</released-year>
+        <movie-url>https://www.imdb.com/title/tt4912910/</movie-url>
+    </movie>
+    <movie>
+        <movie-title>Mission: Impossible - Rogue Nation</movie-title>
+        <released-year>2015</released-year>
+        <movie-url>https://www.imdb.com/title/tt2381249/</movie-url>
+    </movie>
+    <movie>
+        <movie-title>Moana</movie-title>
+        <released-year>2016</released-year>
+        <movie-url>https://www.imdb.com/title/tt3521164/</movie-url>
+    </movie>
+    <movie>
+        <movie-title>Mortal Engines</movie-title>
+        <released-year>2018</released-year>
+        <movie-url>https://www.imdb.com/title/tt1571234/</movie-url>
+    </movie>
+    <movie>
+        <movie-title>Mulan</movie-title>
+        <released-year>1998</released-year>
+        <movie-url>https://www.imdb.com/title/tt0120762/</movie-url>
+    </movie>
+    <movie>
+        <movie-title>October Sky</movie-title>
+        <released-year>1999</released-year>
+        <movie-url>https://www.imdb.com/title/tt0132477/</movie-url>
+    </movie>
+    <movie>
+        <movie-title>Overdrive</movie-title>
+        <released-year>2017</released-year>
+        <movie-url>https://www.imdb.com/title/tt1935194/</movie-url>
+    </movie>
+    <movie>
+        <movie-title>Padmavati</movie-title>
+        <released-year>2018</released-year>
+        <movie-url>https://www.imdb.com/title/tt5935704/</movie-url>
+    </movie>
+    <movie>
+        <movie-title>Pirates of the Caribbean: On Stranger Tides</movie-title>
+        <released-year>2011</released-year>
+        <movie-url>https://www.imdb.com/title/tt1298650/</movie-url>
+    </movie>
+    <movie>
+        <movie-title>Pirates of the Caribbean: Dead Men Tell No Tales</movie-title>
+        <released-year>2017</released-year>
+        <movie-url>https://www.imdb.com/title/tt1790809/</movie-url>
+    </movie>
+    <movie>
+        <movie-title>PK</movie-title>
+        <released-year>2014</released-year>
+        <movie-url>https://www.imdb.com/title/tt2338151/</movie-url>
+    </movie>
+    <movie>
+        <movie-title>Rab Ne Bana Di Jodi</movie-title>
+        <released-year>2008</released-year>
+        <movie-url>https://www.imdb.com/title/tt1182937/</movie-url>
+    </movie>
+    <movie>
+        <movie-title>Ralph Breaks the Internet</movie-title>
+        <released-year>2018</released-year>
+        <movie-url>https://www.imdb.com/title/tt5848272/</movie-url>
+    </movie>
+    <movie>
+        <movie-title>Rampage</movie-title>
+        <released-year>2018</released-year>
+        <movie-url>https://www.imdb.com/title/tt2231461/</movie-url>
+    </movie>
+    <movie>
+        <movie-title>Ready Player One</movie-title>
+        <released-year>2018</released-year>
+        <movie-url>https://www.imdb.com/title/tt1677720/</movie-url>
+    </movie>
+    <movie>
+        <movie-title>Robin Hood</movie-title>
+        <released-year>2018</released-year>
+        <movie-url>https://www.imdb.com/title/tt4532826/</movie-url>
+    </movie>
+    <movie>
+        <movie-title>Rogue One</movie-title>
+        <released-year>2016</released-year>
+        <movie-url>https://www.imdb.com/title/tt3748528/</movie-url>
+    </movie>
+    <movie>
+        <movie-title>Shutter Island</movie-title>
+        <released-year>2010</released-year>
+        <movie-url>https://www.imdb.com/title/tt1130884/</movie-url>
+    </movie>
+    <movie>
+        <movie-title>Skyscraper</movie-title>
+        <released-year>2018</released-year>
+        <movie-url>https://www.imdb.com/title/tt5758778/</movie-url>
+    </movie>
+    <movie>
+        <movie-title>Snowden</movie-title>
+        <released-year>2016</released-year>
+        <movie-url>https://www.imdb.com/title/tt3774114/</movie-url>
+    </movie>
+    <movie>
+        <movie-title>Solo: A Star Wars Story</movie-title>
+        <released-year>2018</released-year>
+        <movie-url>https://www.imdb.com/title/tt3778644/</movie-url>
+    </movie>
+    <movie>
+        <movie-title>Spider-Man: Homecoming</movie-title>
+        <released-year>2017</released-year>
+        <movie-url>https://www.imdb.com/title/tt2250912/</movie-url>
+    </movie>
+    <movie>
+        <movie-title>Spy</movie-title>
+        <released-year>2015</released-year>
+        <movie-url>https://www.imdb.com/title/tt3079380/</movie-url>
+    </movie>
+    <movie>
+        <movie-title>Star Trek</movie-title>
+        <released-year>2009</released-year>
+        <movie-url>https://www.imdb.com/title/tt0796366/</movie-url>
+    </movie>
+    <movie>
+        <movie-title>Star Trek Beyond</movie-title>
+        <released-year>2016</released-year>
+        <movie-url>https://www.imdb.com/title/tt2660888/</movie-url>
+    </movie>
+    <movie>
+        <movie-title>Star Trek Into Darkness</movie-title>
+        <released-year>2013</released-year>
+        <movie-url>https://www.imdb.com/title/tt1408101/</movie-url>
+    </movie>
+    <movie>
+        <movie-title>Star Wars: Episode I - The Phantom Menace</movie-title>
+        <released-year>1999</released-year>
+        <movie-url>https://www.imdb.com/title/tt0120915/</movie-url>
+    </movie>
+    <movie>
+        <movie-title>Star Wars: Episode II - Attack of the Clones</movie-title>
+        <released-year>2002</released-year>
+        <movie-url>https://www.imdb.com/title/tt0121765/</movie-url>
+    </movie>
+    <movie>
+        <movie-title>Star Wars: Episode IV - A New Hope</movie-title>
+        <released-year>1977</released-year>
+        <movie-url>https://www.imdb.com/title/tt0076759/</movie-url>
+    </movie>
+    <movie>
+        <movie-title>Star Wars: Episode VII - The Force Awakens</movie-title>
+        <released-year>2015</released-year>
+        <movie-url>https://www.imdb.com/title/tt2488496/</movie-url>
+    </movie>
+    <movie>
+        <movie-title>The Stolen Princess</movie-title>
+        <released-year>2018</released-year>
+        <movie-url>https://www.imdb.com/title/tt5378092/</movie-url>
+    </movie>
+    <movie>
+        <movie-title>Sully</movie-title>
+        <released-year>2016</released-year>
+        <movie-url>https://www.imdb.com/title/tt3263904/</movie-url>
+    </movie>
+    <movie>
+        <movie-title>Tad the Lost Explorer and the Secret of King Midas</movie-title>
+        <released-year>2017</released-year>
+        <movie-url>https://www.imdb.com/title/tt3896102/</movie-url>
+    </movie>
+    <movie>
+        <movie-title>The Big Sick</movie-title>
+        <released-year>2017</released-year>
+        <movie-url>https://www.imdb.com/title/tt5462602/</movie-url>
+    </movie>
+    <movie>
+        <movie-title>The Book of Henry</movie-title>
+        <released-year>2017</released-year>
+        <movie-url>https://www.imdb.com/title/tt4572792/</movie-url>
+    </movie>
+    <movie>
+        <movie-title>The Boss Baby</movie-title>
+        <released-year>2017</released-year>
+        <movie-url>https://www.imdb.com/title/tt3874544/</movie-url>
+    </movie>
+    <movie>
+        <movie-title>The Foreigner</movie-title>
+        <released-year>2017</released-year>
+        <movie-url>https://www.imdb.com/title/tt1615160/</movie-url>
+    </movie>
+    <movie>
+        <movie-title>The Greatest Showman</movie-title>
+        <released-year>2017</released-year>
+        <movie-url>https://www.imdb.com/title/tt1485796/</movie-url>
+    </movie>
+    <movie>
+        <movie-title>The Hobbit: An Unexpected Journey</movie-title>
+        <released-year>2012</released-year>
+        <movie-url>https://www.imdb.com/title/tt0903624/</movie-url>
+    </movie>
+    <movie>
+        <movie-title>The Hobbit: The Battle of the Five Armies</movie-title>
+        <released-year>2014</released-year>
+        <movie-url>https://www.imdb.com/title/tt2310332/</movie-url>
+    </movie>
+    <movie>
+        <movie-title>The Hobbit: The Desolation of Smaug</movie-title>
+        <released-year>2013</released-year>
+        <movie-url>https://www.imdb.com/title/tt1170358/</movie-url>
+    </movie>
+    <movie>
+        <movie-title>The Hunger Games</movie-title>
+        <released-year>2012</released-year>
+        <movie-url>https://www.imdb.com/title/tt1392170/</movie-url>
+    </movie>
+    <movie>
+        <movie-title>The Hunger Games: Catching Fire</movie-title>
+        <released-year>2013</released-year>
+        <movie-url>https://www.imdb.com/title/tt1951264/</movie-url>
+    </movie>
+    <movie>
+        <movie-title>The Imitation Game</movie-title>
+        <released-year>2014</released-year>
+        <movie-url>https://www.imdb.com/title/tt2084970/</movie-url>
+    </movie>
+    <movie>
+        <movie-title>The Incredibles</movie-title>
+        <released-year>2004</released-year>
+        <movie-url>https://www.imdb.com/title/tt0317705/</movie-url>
+    </movie>
+    <movie>
+        <movie-title>The Intern</movie-title>
+        <released-year>2015</released-year>
+        <movie-url>https://www.imdb.com/title/tt2361509/</movie-url>
+    </movie>
+    <movie>
+        <movie-title>The Lego Movie 2: The Second Part</movie-title>
+        <released-year>2019</released-year>
+        <movie-url>https://www.imdb.com/title/tt3513498/</movie-url>
+    </movie>
+    <movie>
+        <movie-title>The Lord of the Rings: The Fellowship of the Ring</movie-title>
+        <released-year>2001</released-year>
+        <movie-url>https://www.imdb.com/title/tt0120737/</movie-url>
+    </movie>
+    <movie>
+        <movie-title>The Lord of the Rings: The Return of the King</movie-title>
+        <released-year>2003</released-year>
+        <movie-url>https://www.imdb.com/title/tt0167260/</movie-url>
+    </movie>
+    <movie>
+        <movie-title>The Lord of the Rings: The Two Towers</movie-title>
+        <released-year>2002</released-year>
+        <movie-url>https://www.imdb.com/title/tt0167261/</movie-url>
+    </movie>
+    <movie>
+        <movie-title>The Nutcracker and the Four Realms</movie-title>
+        <released-year>2018</released-year>
+        <movie-url>https://www.imdb.com/title/tt5523010/</movie-url>
+    </movie>
+    <movie>
+        <movie-title>The Prestige</movie-title>
+        <released-year>2006</released-year>
+        <movie-url>https://www.imdb.com/title/tt0482571/</movie-url>
+    </movie>
+    <movie>
+        <movie-title>The Secret Rules of Modern Living: Algorithms</movie-title>
+        <released-year>2015</released-year>
+        <movie-url>https://www.imdb.com/title/tt5818010/</movie-url>
+    </movie>
+    <movie>
+        <movie-title>The Snow Queen 3: Fire and Ice</movie-title>
+        <released-year>2016</released-year>
+        <movie-url>https://www.imdb.com/title/tt4685554/</movie-url>
+    </movie>
+    <movie>
+        <movie-title>The Space Between Us</movie-title>
+        <released-year>2017</released-year>
+        <movie-url>https://www.imdb.com/title/tt3922818/</movie-url>
+    </movie>
+    <movie>
+        <movie-title>The Ridiculous 6</movie-title>
+        <released-year>2015</released-year>
+        <movie-url>https://www.imdb.com/title/tt2479478/</movie-url>
+    </movie>
+    <movie>
+        <movie-title>Thor: Ragnarok</movie-title>
+        <released-year>2017</released-year>
+        <movie-url>https://www.imdb.com/title/tt3501632/</movie-url>
+    </movie>
+    <movie>
+        <movie-title>Thor: The Dark World</movie-title>
+        <released-year>2013</released-year>
+        <movie-url>https://www.imdb.com/title/tt1981115/</movie-url>
+    </movie>
+    <movie>
+        <movie-title>Throne of Elves</movie-title>
+        <released-year>2016</released-year>
+        <movie-url>https://www.imdb.com/title/tt5425264/</movie-url>
+    </movie>
+    <movie>
+        <movie-title>Tomb Raider</movie-title>
+        <released-year>2018</released-year>
+        <movie-url>https://www.imdb.com/title/tt1365519/</movie-url>
+    </movie>
+    <movie>
+        <movie-title>Tomorrowland</movie-title>
+        <released-year>2015</released-year>
+        <movie-url>https://www.imdb.com/title/tt1964418/</movie-url>
+    </movie>
+    <movie>
+        <movie-title>Transformers: The Last Knight</movie-title>
+        <released-year>2017</released-year>
+        <movie-url>https://www.imdb.com/title/tt3371366/</movie-url>
+    </movie>
+    <movie>
+        <movie-title>War for the Planet of the Apes</movie-title>
+        <released-year>2017</released-year>
+        <movie-url>https://www.imdb.com/title/tt3450958/</movie-url>
+    </movie>
+    <movie>
+        <movie-title>Wonder Woman</movie-title>
+        <released-year>2017</released-year>
+        <movie-url>https://www.imdb.com/title/tt0451279/</movie-url>
+    </movie>
+    <movie>
+        <movie-title>Wreck-It Ralph</movie-title>
+        <released-year>2012</released-year>
+        <movie-url>https://www.imdb.com/title/tt1772341/</movie-url>
+    </movie>
+    <movie>
+        <movie-title>xXx: Return of Xander Cage</movie-title>
+        <released-year>2017</released-year>
+        <movie-url>https://www.imdb.com/title/tt1293847/</movie-url>
+    </movie>
+    <movie>
+        <movie-title>Sarigama</movie-title>
+        <released-year>2016</released-year>
+        <movie-url>https://www.imdb.com/title/tt6487540/</movie-url>
+    </movie>
+    <movie>
+        <movie-title>Suhada Koka</movie-title>
+        <released-year>2015</released-year>
+        <movie-url>https://www.imdb.com/title/tt7662602/</movie-url>
+    </movie>
+    <movie>
+        <movie-title>Monty Python and the Holy Grail</movie-title>
+        <released-year>1975</released-year>
+        <movie-url>https://www.imdb.com/title/tt0071853/</movie-url>
+    </movie>
+    <movie>
+        <movie-title>3 Idiots</movie-title>
+        <released-year>2009</released-year>
+        <movie-url>https://www.imdb.com/title/tt1187043/</movie-url>
+    </movie>
+    <movie>
+        <movie-title>Alexander and the Terrible, Horrible, No Good, Very Bad Day</movie-title>
+        <released-year>2014</released-year>
+        <movie-url>https://www.imdb.com/title/tt1698641/</movie-url>
+    </movie>
+    <movie>
+        <movie-title>Alice Through the Looking Glass</movie-title>
+        <released-year>2016</released-year>
+        <movie-url>https://www.imdb.com/title/tt2567026/</movie-url>
+    </movie>
+    <movie>
+        <movie-title>Allegiant</movie-title>
+        <released-year>2016</released-year>
+        <movie-url>https://www.imdb.com/title/tt3410834/</movie-url>
+    </movie>
+    <movie>
+        <movie-title>Avengers: Age of Ultron</movie-title>
+        <released-year>2015</released-year>
+        <movie-url>https://www.imdb.com/title/tt2395427/</movie-url>
+    </movie>
+    <movie>
+        <movie-title>Big Hero 6</movie-title>
+        <released-year>2014</released-year>
+        <movie-url>https://www.imdb.com/title/tt2245084/</movie-url>
+    </movie>
+    <movie>
+        <movie-title>Cinderella</movie-title>
+        <released-year>2015</released-year>
+        <movie-url>https://www.imdb.com/title/tt1661199/</movie-url>
+    </movie>
+    <movie>
+        <movie-title>Divergent</movie-title>
+        <released-year>2014</released-year>
+        <movie-url>https://www.imdb.com/title/tt1840309/</movie-url>
+    </movie>
+    <movie>
+        <movie-title>Earth to Echo</movie-title>
+        <released-year>2014</released-year>
+        <movie-url>https://www.imdb.com/title/tt2183034/</movie-url>
+    </movie>
+    <movie>
+        <movie-title>Fan</movie-title>
+        <released-year>2016</released-year>
+        <movie-url>https://www.imdb.com/title/tt3495026/</movie-url>
+    </movie>
+    <movie>
+        <movie-title>Fantastic Four</movie-title>
+        <released-year>2015</released-year>
+        <movie-url>https://www.imdb.com/title/tt1502712/</movie-url>
+    </movie>
+    <movie>
+        <movie-title>Far from the Madding Crowd</movie-title>
+        <released-year>2015</released-year>
+        <movie-url>https://www.imdb.com/title/tt2935476/</movie-url>
+    </movie>
+    <movie>
+        <movie-title>Finding Dory</movie-title>
+        <released-year>2016</released-year>
+        <movie-url>https://www.imdb.com/title/tt2277860/</movie-url>
+    </movie>
+    <movie>
+        <movie-title>Fury</movie-title>
+        <released-year>2014</released-year>
+        <movie-url>https://www.imdb.com/title/tt2713180/</movie-url>
+    </movie>
+    <movie>
+        <movie-title>Get Hard</movie-title>
+        <released-year>2015</released-year>
+        <movie-url>https://www.imdb.com/title/tt2561572/</movie-url>
+    </movie>
+    <movie>
+        <movie-title>Hugo</movie-title>
+        <released-year>2011</released-year>
+        <movie-url>https://www.imdb.com/title/tt0970179/</movie-url>
+    </movie>
+    <movie>
+        <movie-title>Inception</movie-title>
+        <released-year>2010</released-year>
+        <movie-url>https://www.imdb.com/title/tt1375666/</movie-url>
+    </movie>
+    <movie>
+        <movie-title>Inside Out</movie-title>
+        <released-year>2015</released-year>
+        <movie-url>https://www.imdb.com/title/tt2096673/</movie-url>
+    </movie>
+    <movie>
+        <movie-title>Insurgent</movie-title>
+        <released-year>2015</released-year>
+        <movie-url>https://www.imdb.com/title/tt2908446/</movie-url>
+    </movie>
+    <movie>
+        <movie-title>Into the Woods</movie-title>
+        <released-year>2014</released-year>
+        <movie-url>https://www.imdb.com/title/tt2180411/</movie-url>
+    </movie>
+    <movie>
+        <movie-title>Jurassic World</movie-title>
+        <released-year>2015</released-year>
+        <movie-url>https://www.imdb.com/title/tt0369610/</movie-url>
+    </movie>
+    <movie>
+        <movie-title>Kung Fu Panda 3</movie-title>
+        <released-year>2016</released-year>
+        <movie-url>https://www.imdb.com/title/tt2267968/</movie-url>
+    </movie>
+    <movie>
+        <movie-title>London Has Fallen</movie-title>
+        <released-year>2016</released-year>
+        <movie-url>https://www.imdb.com/title/tt3300542/</movie-url>
+    </movie>
+    <movie>
+        <movie-title>Lucy</movie-title>
+        <released-year>2014</released-year>
+        <movie-url>https://www.imdb.com/title/tt2872732/</movie-url>
+    </movie>
+    <movie>
+        <movie-title>Maleficent</movie-title>
+        <released-year>2014</released-year>
+        <movie-url>https://www.imdb.com/title/tt1587310/</movie-url>
+    </movie>
+    <movie>
+        <movie-title>Mirror Mirror</movie-title>
+        <released-year>2012</released-year>
+        <movie-url>https://www.imdb.com/title/tt1667353/</movie-url>
+    </movie>
+    <movie>
+        <movie-title>Mr. Peabody &amp; Sherman</movie-title>
+        <released-year>2014</released-year>
+        <movie-url>https://www.imdb.com/title/tt0864835/</movie-url>
+    </movie>
+    <movie>
+        <movie-title>Paper Towns</movie-title>
+        <released-year>2015</released-year>
+        <movie-url>https://www.imdb.com/title/tt3622592/</movie-url>
+    </movie>
+    <movie>
+        <movie-title>Percy Jackson: Sea of Monsters</movie-title>
+        <released-year>2013</released-year>
+        <movie-url>https://www.imdb.com/title/tt1854564/</movie-url>
+    </movie>
+    <movie>
+        <movie-title>Peter Pan</movie-title>
+        <released-year>2003</released-year>
+        <movie-url>https://www.imdb.com/title/tt0316396/</movie-url>
+    </movie>
+    <movie>
+        <movie-title>Pompeii</movie-title>
+        <released-year>2014</released-year>
+        <movie-url>https://www.imdb.com/title/tt1921064/</movie-url>
+    </movie>
+    <movie>
+        <movie-title>Pride and Prejudice and Zombies</movie-title>
+        <released-year>2016</released-year>
+        <movie-url>https://www.imdb.com/title/tt1374989/</movie-url>
+    </movie>
+    <movie>
+        <movie-title>Rise of the Guardians</movie-title>
+        <released-year>2012</released-year>
+        <movie-url>https://www.imdb.com/title/tt1446192/</movie-url>
+    </movie>
+    <movie>
+        <movie-title>San Andreas</movie-title>
+        <released-year>2015</released-year>
+        <movie-url>https://www.imdb.com/title/tt2126355/</movie-url>
+    </movie>
+    <movie>
+        <movie-title>Sanam Teri Kasam</movie-title>
+        <released-year>2016</released-year>
+        <movie-url>https://www.imdb.com/title/tt5255710/</movie-url>
+    </movie>
+    <movie>
+        <movie-title>Terminator Genisys</movie-title>
+        <released-year>2015</released-year>
+        <movie-url>https://www.imdb.com/title/tt1340138/</movie-url>
+    </movie>
+    <movie>
+        <movie-title>The 5th Wave</movie-title>
+        <released-year>2016</released-year>
+        <movie-url>https://www.imdb.com/title/tt2304933/</movie-url>
+    </movie>
+    <movie>
+        <movie-title>The Chronicles of Narnia: The Voyage of the Dawn Treader</movie-title>
+        <released-year>2010</released-year>
+        <movie-url>https://www.imdb.com/title/tt0980970/</movie-url>
+    </movie>
+    <movie>
+        <movie-title>The Jungle Book</movie-title>
+        <released-year>2016</released-year>
+        <movie-url>https://www.imdb.com/title/tt3040964/</movie-url>
+    </movie>
+    <movie>
+        <movie-title>The Lego Movie</movie-title>
+        <released-year>2014</released-year>
+        <movie-url>https://www.imdb.com/title/tt1490017/</movie-url>
+    </movie>
+    <movie>
+        <movie-title>The Little Prince</movie-title>
+        <released-year>2015</released-year>
+        <movie-url>https://www.imdb.com/title/tt1754656/</movie-url>
+    </movie>
+    <movie>
+        <movie-title>The Longest Ride</movie-title>
+        <released-year>2015</released-year>
+        <movie-url>https://www.imdb.com/title/tt2726560/</movie-url>
+    </movie>
+    <movie>
+        <movie-title>The Secret Life of Pets</movie-title>
+        <released-year>2016</released-year>
+        <movie-url>https://www.imdb.com/title/tt2709768/</movie-url>
+    </movie>
+    <movie>
+        <movie-title>Thor: Legend of the Magical Hammer</movie-title>
+        <released-year>2011</released-year>
+        <movie-url>https://www.imdb.com/title/tt1241721/</movie-url>
+    </movie>
+    <movie>
+        <movie-title>TRON: Legacy</movie-title>
+        <released-year>2010</released-year>
+        <movie-url>https://www.imdb.com/title/tt1104001/</movie-url>
+    </movie>
+    <movie>
+        <movie-title>Zootopia</movie-title>
+        <released-year>2016</released-year>
+        <movie-url>https://www.imdb.com/title/tt2948356/</movie-url>
+    </movie>
+    <movie>
+        <movie-title>The Knight of Shadows: Between Yin and Yang</movie-title>
+        <released-year>2019</released-year>
+        <movie-url>https://www.imdb.com/title/tt7587984/</movie-url>
+    </movie>
+    <movie>
+        <movie-title>Maleficent: Mistress of Evil</movie-title>
+        <released-year>2019</released-year>
+        <movie-url>https://www.imdb.com/title/tt4777008/</movie-url>
+    </movie>
+    <movie>
+        <movie-title>Acceleration</movie-title>
+        <released-year>2019</released-year>
+        <movie-url>https://www.imdb.com/title/tt9534808/</movie-url>
+    </movie>
+    <movie>
+        <movie-title>Black and Blue</movie-title>
+        <released-year>2019</released-year>
+        <movie-url>https://www.imdb.com/title/tt7390646/</movie-url>
+    </movie>
+    <movie>
+        <movie-title>Lady and the Tramp</movie-title>
+        <released-year>2019</released-year>
+        <movie-url>https://www.imdb.com/title/tt8096832/</movie-url>
+    </movie>
+    <movie>
+        <movie-title>Terminator: Dark Fate</movie-title>
+        <released-year>2019</released-year>
+        <movie-url>https://www.imdb.com/title/tt6450804/</movie-url>
+    </movie>
+    <movie>
+        <movie-title>Aladdin</movie-title>
+        <released-year>2019</released-year>
+        <movie-url>https://www.imdb.com/title/tt6139732/</movie-url>
+    </movie>
+    <movie>
+        <movie-title>Ford v Ferrari</movie-title>
+        <released-year>2019</released-year>
+        <movie-url>https://www.imdb.com/title/tt1950186/</movie-url>
+    </movie>
+    <movie>
+        <movie-title>Frozen II</movie-title>
+        <released-year>2019</released-year>
+        <movie-url>https://www.imdb.com/title/tt4520988/</movie-url>
+    </movie>
+    <movie>
+        <movie-title>Dark Waters</movie-title>
+        <released-year>2019</released-year>
+        <movie-url>https://www.imdb.com/title/tt9071322/</movie-url>
+    </movie>
+    <!-- <movie>
+        <movie-title></movie-title>
+        <released-year></released-year>
+        <movie-url></movie-url>
+    </movie> -->
+</movies>
